@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-11-02">
+    <creator>NetworkX 3.7</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="9" title="distance" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="group" type="string" />
+      <attribute id="1" title="Members" type="long" />
+      <attribute id="2" title="MultiSocietyMembers" type="long" />
+      <attribute id="3" title="OverlapPercent" type="double" />
+      <attribute id="4" title="Degree" type="long" />
+      <attribute id="5" title="WeightedDegree" type="long" />
+      <attribute id="6" title="Betweenness" type="double" />
+      <attribute id="7" title="Closeness" type="double" />
+      <attribute id="8" title="Eigenvector" type="double" />
+    </attributes>
+    <nodes>
+      <node id="LMA" label="LMA">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="126" />
+          <attvalue for="2" value="33" />
+          <attvalue for="3" value="26.19047619047619" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="43" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="4.692657987845136" />
+          <attvalue for="8" value="0.1805857301764162" />
+        </attvalues>
+      </node>
+      <node id="Drums" label="Drums">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="85" />
+          <attvalue for="2" value="40" />
+          <attvalue for="3" value="47.05882352941177" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="61" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="7.669152962528496" />
+          <attvalue for="8" value="0.2893100578614026" />
+        </attvalues>
+      </node>
+      <node id="Dramaline" label="Dramaline">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="138" />
+          <attvalue for="2" value="45" />
+          <attvalue for="3" value="32.608695652173914" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="58" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="7.669152962528496" />
+          <attvalue for="8" value="0.29665659116996845" />
+        </attvalues>
+      </node>
+      <node id="Spades" label="Spades">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="302" />
+          <attvalue for="2" value="75" />
+          <attvalue for="3" value="24.834437086092716" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="91" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="8.197160460755425" />
+          <attvalue for="8" value="0.4005994640218347" />
+        </attvalues>
+      </node>
+      <node id="Photolums" label="Photolums">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="200" />
+          <attvalue for="2" value="70" />
+          <attvalue for="3" value="35.0" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="86" />
+          <attvalue for="6" value="0.011111111111111112" />
+          <attvalue for="7" value="8.38902099961156" />
+          <attvalue for="8" value="0.3748678653078238" />
+        </attvalues>
+      </node>
+      <node id="Plums" label="Plums">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="67" />
+          <attvalue for="2" value="27" />
+          <attvalue for="3" value="40.298507462686565" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="35" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="4.95585853276552" />
+          <attvalue for="8" value="0.15494964917757353" />
+        </attvalues>
+      </node>
+      <node id="Music" label="Music">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="102" />
+          <attvalue for="2" value="32" />
+          <attvalue for="3" value="31.372549019607842" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="45" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="5.3062787136294025" />
+          <attvalue for="8" value="0.1910778693662547" />
+        </attvalues>
+      </node>
+      <node id="Fintra" label="Fintra">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="66" />
+          <attvalue for="2" value="27" />
+          <attvalue for="3" value="40.90909090909091" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="33" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="5.729071939948082" />
+          <attvalue for="8" value="0.16799274266128442" />
+        </attvalues>
+      </node>
+      <node id="Lumun" label="Lumun">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="358" />
+          <attvalue for="2" value="122" />
+          <attvalue for="3" value="34.07821229050279" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="160" />
+          <attvalue for="6" value="0.8555555555555556" />
+          <attvalue for="7" value="10.765132156366263" />
+          <attvalue for="8" value="0.575251205054825" />
+        </attvalues>
+      </node>
+      <node id="Femsoc" label="Femsoc">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="97" />
+          <attvalue for="2" value="41" />
+          <attvalue for="3" value="42.2680412371134" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="57" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="7.252026224498873" />
+          <attvalue for="8" value="0.2608046718459" />
+        </attvalues>
+      </node>
+      <node id="Psychology" label="Psychology">
+        <attvalues>
+          <attvalue for="0" value="Society" />
+          <attvalue for="1" value="47" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="31.914893617021278" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="19" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="3.145717534538208" />
+          <attvalue for="8" value="0.0836825613550036" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="LMA" target="Drums" id="0" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Dramaline" id="1" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Spades" id="2" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Photolums" id="3" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Plums" id="4" weight="1">
+        <attvalues>
+          <attvalue for="9" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Music" id="5" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Fintra" id="6" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Lumun" id="7" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Femsoc" id="8" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="LMA" target="Psychology" id="9" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Drums" target="Femsoc" id="10" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Drums" target="Lumun" id="11" weight="24">
+        <attvalues>
+          <attvalue for="9" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="Drums" target="Music" id="12" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Drums" target="Spades" id="13" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Drums" target="Plums" id="14" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Drums" target="Psychology" id="15" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Drums" target="Dramaline" id="16" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Drums" target="Photolums" id="17" weight="1">
+        <attvalues>
+          <attvalue for="9" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Dramaline" target="Lumun" id="18" weight="24">
+        <attvalues>
+          <attvalue for="9" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="Dramaline" target="Femsoc" id="19" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Dramaline" target="Photolums" id="20" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Dramaline" target="Spades" id="21" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Dramaline" target="Plums" id="22" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Dramaline" target="Psychology" id="23" weight="1">
+        <attvalues>
+          <attvalue for="9" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Dramaline" target="Fintra" id="24" weight="1">
+        <attvalues>
+          <attvalue for="9" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Dramaline" target="Music" id="25" weight="1">
+        <attvalues>
+          <attvalue for="9" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Spades" target="Music" id="26" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Spades" target="Lumun" id="27" weight="28">
+        <attvalues>
+          <attvalue for="9" value="0.03571428571428571" />
+        </attvalues>
+      </edge>
+      <edge source="Spades" target="Psychology" id="28" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Spades" target="Photolums" id="29" weight="17">
+        <attvalues>
+          <attvalue for="9" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Spades" target="Plums" id="30" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Spades" target="Fintra" id="31" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Spades" target="Femsoc" id="32" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Photolums" target="Lumun" id="33" weight="25">
+        <attvalues>
+          <attvalue for="9" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="Photolums" target="Music" id="34" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Photolums" target="Femsoc" id="35" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Photolums" target="Psychology" id="36" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Photolums" target="Plums" id="37" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Photolums" target="Fintra" id="38" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Plums" target="Lumun" id="39" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Plums" target="Femsoc" id="40" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Plums" target="Music" id="41" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Plums" target="Psychology" id="42" weight="1">
+        <attvalues>
+          <attvalue for="9" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Music" target="Fintra" id="43" weight="1">
+        <attvalues>
+          <attvalue for="9" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Music" target="Femsoc" id="44" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Music" target="Psychology" id="45" weight="1">
+        <attvalues>
+          <attvalue for="9" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Music" target="Lumun" id="46" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Fintra" target="Lumun" id="47" weight="11">
+        <attvalues>
+          <attvalue for="9" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Fintra" target="Femsoc" id="48" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Lumun" target="Femsoc" id="49" weight="20">
+        <attvalues>
+          <attvalue for="9" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Lumun" target="Psychology" id="50" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Femsoc" target="Psychology" id="51" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.5" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

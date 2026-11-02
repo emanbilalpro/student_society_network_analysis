@@ -1,0 +1,13 @@
+{
+  "Students": 1299,
+  "Societies": 11,
+  "TotalMemberships": 1588,
+  "MultipleSocietyStudents": 238,
+  "StudentEdges": 163360,
+  "AverageDegree": 251.51655119322555,
+  "ConnectedComponents": 1,
+  "DiameterLargestComponent": 3,
+  "AverageClusteringCoefficient": 0.926927199569775,
+  "AveragePathLengthLargestComponent": 1.8117326235304863,
+  "Density": 0.19377238150479628
+}
